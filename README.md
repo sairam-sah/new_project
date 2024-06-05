@@ -1,4 +1,4 @@
-# new_project
+# Flutter project
 
 A new Flutter project.
 
